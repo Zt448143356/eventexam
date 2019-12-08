@@ -2,7 +2,12 @@
 
 ## Project setup
 ```
-npm install
+npm install vue-router --save
+npm install vuex --save
+npm install axios --save
+npm install element-ui --save
+npm install js-md5 --save
+npm install vue-cookies --save
 ```
 
 ### Compiles and hot-reloads for development
