@@ -1,6 +1,6 @@
 # eventexam
 
-<a href="http://www.zt448143356.com">线上地址</a>
+<a href="http://www.zt448143356.com" target="_blank">线上地址</a>
 
 ## Project setup
 ```
